@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<departamentos>
+	<departamento>
+		<nombre>Santa Ana</nombre>
+		<cod>SA</cod>
+	</departamento>
+	<departamento>
+		<nombre>Sonsonate</nombre>
+		<cod>SON</cod>
+	</departamento>
+	<departamento>
+		<nombre>Ahuachapán</nombre>
+		<cod>AHU</cod>
+	</departamento>
+	<departamento>
+		<nombre>Cabañas</nombre>
+		<cod>CA</cod>
+	</departamento>
+	<departamento>
+		<nombre>La Libertad</nombre>
+		<cod>LL</cod>
+	</departamento>
+	<departamento>
+		<nombre>San Salvador</nombre>
+		<cod>SS</cod>
+	</departamento>
+	<departamento>
+		<nombre>Cuscatlan</nombre>
+		<cod>CUS</cod>
+	</departamento>
+	<departamento>
+		<nombre>Chalatenango</nombre>
+		<cod>CHA</cod>
+	</departamento>
+	<departamento>
+		<nombre>La Paz</nombre>
+		<cod>LP</cod>
+	</departamento>
+	<departamento>
+		<nombre>San Vicente</nombre>
+		<cod>SV</cod>
+	</departamento>	
+	<departamento>
+		<nombre>Morazán</nombre>
+		<cod>MZ</cod>
+	</departamento>
+	<departamento>
+		<nombre>San Miguel</nombre>
+		<cod>SM</cod>
+	</departamento>
+	<departamento>
+		<nombre>Usulután</nombre>
+		<cod>US</cod>
+	</departamento>
+	<departamento>
+		<nombre>La Unión</nombre>
+		<cod>LU</cod>
+	</departamento>
+</departamentos>
+	

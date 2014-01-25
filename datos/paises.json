@@ -1,0 +1,96 @@
+{
+	"Paises":
+	[
+		{
+			"Nombre":"El Salvador",
+			"Habitantes":6134000,
+			"Area":"21,040 km2",
+			"Ciudades":
+				{"nombre":"Ahuachapán"},
+				{"nombre":"Cabañas"},
+				{"nombre":"Chalatenango"},
+				{"nombre":"Cuscatlan"},
+				{"nombre":"La Libertad"},
+				{"nombre":"La Paz"},
+				{"nombre":"La Unión"},
+				{"nombre":"Morazan"},
+				{"nombre":"Santa Ana"},				
+				{"nombre":"San Miguel"},
+				{"nombre":"San Salvador"},
+				{"nombre":"San Vicente"},
+				{"nombre":"Sonsonate"},
+				{"nombre":"Usulután"}
+			]
+		},		
+		{
+			"Nombre":"Guatemala",
+			"Habitantes":15438384,
+			"Area":"108,889 km2",
+			"Ciudades":
+			[
+				{"nombre":"Alta Verapaz"},
+				{"nombre":"Baja Verapaz"},
+				{"nombre":"Chimaltenango"},
+				{"nombre":"Chiquimula"},
+				{"nombre":"Petén"},
+				{"nombre":"El Progreso"},
+				{"nombre":"El Quiché"},
+				{"nombre":"Escuintla"},
+				{"nombre":"Guatemala"},				
+				{"nombre":"Huehuetenango"},
+				{"nombre":"Izabal"},
+				{"nombre":"Jalapa"},
+				{"nombre":"Quetzaltenango"},
+				{"nombre":"Retalhuleu"},
+				{"nombre":"Sacatepéquez"},
+				{"nombre":"San Marcos"},
+				{"nombre":"Santa Rosa"},
+				{"nombre":"Sololá"},
+				{"nombre":"Suchitepéquez"},
+				{"nombre":"Totonicapán"},
+				{"nombre":"Zacapa"}				
+			]
+		},		
+		{
+			"Nombre":"Costa Rica",
+			"Habitantes":4586353,
+			"Area":"51,100 km2",
+			"Ciudades":
+			[
+				{"nombre":"Alajuela"},
+				{"nombre":"Cartago"},
+				{"nombre":"Guanacaste"},
+				{"nombre":"Heredia"},
+				{"nombre":"Limón"},
+				{"nombre":"Puntarenas"},
+				{"nombre":"San José"}	
+			]
+		},
+		{
+			"Nombre":"Honduras",
+			"Habitantes":8249574,
+			"Area":"112,492 km2",
+			"Ciudades":
+			[
+				{"nombre":"Atlántida"},
+				{"nombre":"Choluteca"},
+				{"nombre":"Colón"},
+				{"nombre":"Comayagua"},
+				{"nombre":"Copán"},
+				{"nombre":"Cortés"},
+				{"nombre":"El Paraíso"},
+				{"nombre":"Francisco Morazán"},
+				{"nombre":"Gracias a Dios"},				
+				{"nombre":"Intibucá"},
+				{"nombre":"Islas de la Bahía"},
+				{"nombre":"La Paz"},
+				{"nombre":"Lempira"},
+				{"nombre":"Ocotepeque"},
+				{"nombre":"Olancho"},
+				{"nombre":"Santa Bárbara"},
+				{"nombre":"Valle"},
+				{"nombre":"Yoro"}									
+			]
+		}
+	]
+}

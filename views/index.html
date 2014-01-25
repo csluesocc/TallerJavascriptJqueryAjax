@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+		<meta charset="utf-8" />
+		<title>Inicio de session | Taller jquery + ajax</title>
+		<link rel="stylesheet" href="../styles/bootstrap.css"/>
+		<link rel="stylesheet" href="../styles/login.css"/>	
+				
+		<script type="text/javascript" src="../js/jquery-1.10.2.min.js"></script>
+		<script type="text/javascript" src="../js/bootstrap.min.js"></script>		
+		<script type="text/javascript" src="../js/peticiones.js"></script>					
+	</head>
+	<body>
+		<div id="container">
+			<form class="form-signin" role="form" method="post" action="login.php" id="logForm">
+					<h2 class="form-signin-heading">Inicia session</h2>
+			        <input type="text" class="form-control" placeholder="Correo electrónico" valid-type="mail" name="email" id="email"/>
+			        <input type="password" class="form-control" placeholder="Código secreto" valid-type="text" name="pass" id="pass" />			        
+			        <button class="btn btn-lg btn-primary btn-block" type="submit" id="signin">Acceder</button>
+				</form>
+		</div>
+	</body>
+</html>
